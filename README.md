@@ -34,12 +34,3 @@ Python, Pandas, NumPy, Scikit-learn, XGBoost, Imbalanced-learn, Matplotlib, Seab
 Disclaimer:
 
 The dataset used in this project is a publicly available credit card fraud detection dataset commonly used for machine learning benchmarking. It is not included in this repository due to size constraints.
-
-Project Structure:
-
-credit-card-fraud-detection-ml/
-│
-├── fraud_model.pkl
-├── creditcard.csv
-├── notebook.ipynb
-└── README.md
