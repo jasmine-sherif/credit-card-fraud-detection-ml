@@ -31,6 +31,10 @@ The final trained model was saved using joblib for future deployment.
 
 Python, Pandas, NumPy, Scikit-learn, XGBoost, Imbalanced-learn, Matplotlib, Seaborn
 
+Disclaimer:
+
+The dataset used in this project is a publicly available credit card fraud detection dataset commonly used for machine learning benchmarking. It is not included in this repository due to size constraints.
+
 Project Structure:
 
 credit-card-fraud-detection-ml/
