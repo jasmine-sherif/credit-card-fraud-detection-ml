@@ -1,8 +1,10 @@
 # credit-card-fraud-detection-ml
  Overview
+ 
 This project builds a machine learning model to detect fraudulent credit card transactions using Python and Scikit-learn. The dataset is highly imbalanced, and special techniques were applied to improve fraud detection performance.
 
  Techniques Used
+ 
 Exploratory Data Analysis (EDA)
 SMOTE for handling class imbalance
 Feature Selection (SelectKBest)
@@ -12,6 +14,7 @@ Hyperparameter tuning (RandomizedSearchCV)
 Cross-validation (StratifiedKFold)
 
 Evaluation Metrics
+
 Precision
 Recall
 F1-score
