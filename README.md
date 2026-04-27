@@ -31,7 +31,8 @@ The final trained model was saved using joblib for future deployment.
 
 Python, Pandas, NumPy, Scikit-learn, XGBoost, Imbalanced-learn, Matplotlib, Seaborn
 
-Project Structure
+Project Structure:
+
 credit-card-fraud-detection-ml/
 │
 ├── fraud_model.pkl
